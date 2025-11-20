@@ -5,9 +5,8 @@ Content-Type: application/json
 {
   "id": "223e4567-e89b-12d3-a456-426614174014",
   "name": "jake1",
-  "email": "jake@jakemail.com",
+  "email": "Updatedjake@jakemail.com",
   "address": "jakepuram jake street1",
-  "dateOfBirth": "1995-02-12",
-  "registeredDate": "2025-10-25"
+  "dateOfBirth": "1995-02-12"
 }
 ###
